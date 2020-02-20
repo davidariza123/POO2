@@ -7,9 +7,9 @@ public abstract class Vehiculos {
 	
 	
 
-	private Integer Placa;
-	private Propietario propietario;
-	private TipoServicio tiposervicio ;
+	protected Integer Placa;
+	protected  Propietario propietario;
+	protected  TipoServicio tiposervicio ;
 	
 
 	
